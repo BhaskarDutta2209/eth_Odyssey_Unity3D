@@ -1,0 +1,29 @@
+Killer bunny animator index
+
+mouth :
+
+mouth_close : 0
+mouth_open : 1
+
+
+head :
+
+head_straight : 0
+head_up  : 1
+head_shaking : 2
+head_right_shaking : 3
+
+
+corp : 
+
+corp_walk : 0
+corp_in_press : 1   // movement while walking
+corp_hit : 2
+
+
+legs :
+
+legs_idle : 0
+legs_walk : 1
+
+

@@ -1,0 +1,405 @@
+
+Animator/animation index 
+
+Numbers how to call which animations in animator
+
+Legs :
+
+Idle : 0
+walk : 1
+walk right : 2
+run : 3
+duck : 4
+duck walk : 5
+
+
+Weapons : -1 = none
+
+
+assault57  :
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+flamethrower   :
+
+idle : o
+walk : 1
+run  : 2
+shoot : 3
+reload : 4
+
+rocket_launcher : 
+
+idle : 0
+aim : 1
+idle walk : 2
+aim walk : 3
+idle shoot : 4
+aim shoot : 5
+reload : 6
+
+Grenade launcher :
+
+idle : 0
+aim : 1
+idle walk : 2
+aim walk : 3
+idle shoot : 4
+aim shoot : 5
+run       : 6
+reload : 7
+
+
+
+Auge:
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+Blast set:
+
+idle  : 0
+walk  : 1
+run   : 2
+throw : 3
+
+
+Cluster Shotgun:
+
+idle           : 0
+idle walk      : 2
+idle shoot     : 1
+idle pump      : 9
+
+reload shell   : 3
+
+aim            : 4
+aim  walk      : 6
+aim shoot      : 7
+aim  pump      : 5
+
+run            : 8
+
+
+Cluster Sub:
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+Crowbar:
+
+idle : 0
+walk : 1
+run  : 2
+hit  : 3
+
+
+
+Hunter_rifle :
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+Lock :
+
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+machine_gun  :
+
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+
+
+mkb16  :
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+nsp  :
+
+idle            : 0
+idle empty      : 1
+idle shoot      : 2
+idle walk       : 3
+idle walk empty : 4
+
+aim             : 5
+aim empty       : 6
+aim shoot       : 7
+aim walk        : 8
+aim walk empty  : 9
+
+reload unempty  : 10
+reload empty    : 11
+
+run             : 12
+run empty       : 13
+
+
+
+old_pistol   :
+
+idle            : 0
+idle empty      : 1
+idle shoot      : 2
+idle walk       : 3
+idle walk empty : 4
+
+aim             : 5
+aim empty       : 6
+aim shoot       : 7
+aim walk        : 8
+aim walk empty  : 9
+
+reload unempty  : 10
+reload empty    : 11
+
+run             : 12
+run empty       : 13
+
+
+
+
+pistol9   :
+
+idle            : 0
+idle empty      : 1
+idle shoot      : 2
+idle walk       : 3
+idle walk empty : 4
+
+aim             : 5
+aim empty       : 6
+aim shoot       : 7
+aim walk        : 8
+aim walk empty  : 9
+
+reload unempty  : 10
+reload empty    : 11
+
+run             : 12
+run empty       : 13
+
+
+
+
+Pumpgun_a   :
+
+idle           : 0
+idle walk      : 2
+idle shoot     : 1
+idle pump      : 9
+
+reload shell   : 3
+
+aim            : 4
+aim  walk      : 6
+aim shoot      : 7
+aim  pump      : 5
+
+run            : 8
+
+
+
+
+Revolver  :
+
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+RP9  : 
+
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+
+russian_sniper :
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+scorp6    :
+
+idle            : 0
+idle empty      : 1
+idle shoot      : 2
+idle walk       : 3
+idle walk empty : 4
+
+aim             : 5
+aim empty       : 6
+aim shoot       : 7
+aim walk        : 8
+aim walk empty  : 9
+
+reload unempty  : 10
+reload empty    : 11
+
+run             : 12
+run empty       : 13
+
+
+
+
+
+
+sce5    :
+
+idle            : 0
+idle empty      : 1
+idle shoot      : 2
+idle walk       : 3
+idle walk empty : 4
+
+aim             : 5
+aim empty       : 6
+aim shoot       : 7
+aim walk        : 8
+aim walk empty  : 9
+
+reload unempty  : 10
+reload empty    : 11
+
+run             : 12
+run empty       : 13
+
+
+
+
+
+StreetSub   : 
+
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+Submachine5   : 
+
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+
+
+
+Tarusk   :
+
+idle : 0
+idle shoot : 1
+idle walk : 2
+reload empty : 3
+aim          : 4
+reload unempty : 5
+aim walk : 6
+aim shoot : 7
+run    : 8
+

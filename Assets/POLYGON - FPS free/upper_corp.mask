@@ -1,0 +1,447 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: upper_corp
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: charakters
+    m_Weight: 1
+  - m_Path: charakters/DE_a
+    m_Weight: 1
+  - m_Path: charakters/DE_a/dust_protection
+    m_Weight: 1
+  - m_Path: charakters/DE_a/sun_glasses
+    m_Weight: 1
+  - m_Path: charakters/DE_b
+    m_Weight: 1
+  - m_Path: charakters/DE_b/dust_protection.001
+    m_Weight: 1
+  - m_Path: charakters/DE_b/sun_glasses.001
+    m_Weight: 1
+  - m_Path: charakters/Fat_guy
+    m_Weight: 1
+  - m_Path: charakters/female_a
+    m_Weight: 1
+  - m_Path: charakters/Police_a
+    m_Weight: 1
+  - m_Path: charakters/Police_a/police_a_helmet
+    m_Weight: 1
+  - m_Path: charakters/police_b
+    m_Weight: 1
+  - m_Path: charakters/police_b/police_b_hat
+    m_Weight: 1
+  - m_Path: charakters/police_b/police_b_sunglasses
+    m_Weight: 1
+  - m_Path: charakters/police_c
+    m_Weight: 1
+  - m_Path: charakters/police_c/police_c_hat
+    m_Weight: 1
+  - m_Path: charakters/police_c/police_c_sunglasses
+    m_Weight: 1
+  - m_Path: charakters/RU_a
+    m_Weight: 1
+  - m_Path: charakters/RU_a/backpack
+    m_Weight: 1
+  - m_Path: charakters/RU_a/RU_mask
+    m_Weight: 1
+  - m_Path: charakters/RuG_a
+    m_Weight: 1
+  - m_Path: charakters/RuG_a/Helmet
+    m_Weight: 1
+  - m_Path: charakters/RuG_a/RUG_mask
+    m_Weight: 1
+  - m_Path: charakters/Taliban_a
+    m_Weight: 1
+  - m_Path: charakters/Taliban_b
+    m_Weight: 1
+  - m_Path: charakters/taliban_c
+    m_Weight: 1
+  - m_Path: charakters/terrorist_a
+    m_Weight: 1
+  - m_Path: charakters/US_a
+    m_Weight: 1
+  - m_Path: charakters/US_b
+    m_Weight: 1
+  - m_Path: charakters/US_backpack
+    m_Weight: 1
+  - m_Path: FPS_rig
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006/Bone.008
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006/Bone.008/Bone.010
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006/Bone.008/Bone.010/Bone.012
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006/Bone.014
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006/Bone.014/Bone.016
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.002/Bone.004/Bone.006/Bone.014/Bone.016/Bone.018
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.011
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.011/Bone.013
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.034
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035/Bone.042
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035/Bone.043
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035/Bone.044
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035/Bone.045
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035/Bone.046
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.035/Bone.047
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.036
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.037
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.038
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.039
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.040
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056/Bone.058
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056/Bone.059
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056/Bone.060
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056/Bone.061
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056/Bone.062
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.041/Bone.056/Bone.063
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048/Bone.050
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048/Bone.050/Bone.051
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048/Bone.050/Bone.051/Bone.052
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048/Bone.050/Bone.051/Bone.052/Bone.053
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048/Bone.050/Bone.051/Bone.052/Bone.053/Bone.054
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.048/Bone.050/Bone.051/Bone.052/Bone.053/Bone.054/Bone.055
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.049
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.009/Bone.032/Bone.049/Bone.057
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.015
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.015/Bone.017
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.003/Bone.005/Bone.007/Bone.015/Bone.017/Bone.019
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.020
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone/FPS_bone_rotate_aim/FPS_bone_normal/Bone.022/Bone.020/Bone.021
+    m_Weight: 1
+  - m_Path: FPS_rig/Bone.023
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.023/Bone.024
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.023/Bone.024/Bone.025
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.023/Bone.024/Bone.025/Bone.026
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.027
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.027/Bone.028
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.027/Bone.028/Bone.029
+    m_Weight: 0
+  - m_Path: FPS_rig/Bone.027/Bone.028/Bone.029/Bone.030
+    m_Weight: 0
+  - m_Path: holder_a_assault57
+    m_Weight: 1
+  - m_Path: holder_b_assault57
+    m_Weight: 1
+  - m_Path: Rear_sight_a_buzzsub
+    m_Weight: 1
+  - m_Path: Rear_sight_A_sturmgewehr46
+    m_Weight: 1
+  - m_Path: rear_sight_a_tarusk
+    m_Weight: 1
+  - m_Path: Rear_sight_b_buzzsub
+    m_Weight: 1
+  - m_Path: Rear_sight_B_sturmgewehr46
+    m_Weight: 1
+  - m_Path: rear_sight_b_tarusk
+    m_Weight: 1
+  - m_Path: sight_sce5
+    m_Weight: 1
+  - m_Path: sight_sce5.001
+    m_Weight: 1
+  - m_Path: Weapons
+    m_Weight: 1
+  - m_Path: Weapons/Assault57
+    m_Weight: 1
+  - m_Path: Weapons/Assault57/7,62x53
+    m_Weight: 1
+  - m_Path: Weapons/auge
+    m_Weight: 1
+  - m_Path: Weapons/auge/5,56x45
+    m_Weight: 1
+  - m_Path: Weapons/auge/cam.001
+    m_Weight: 1
+  - m_Path: Weapons/auge/dot
+    m_Weight: 1
+  - m_Path: Weapons/auge/glass.001
+    m_Weight: 1
+  - m_Path: Weapons/blast_set
+    m_Weight: 1
+  - m_Path: Weapons/buzzsub
+    m_Weight: 1
+  - m_Path: Weapons/buzzsub/9mm.005
+    m_Weight: 1
+  - m_Path: Weapons/clusterShotgun
+    m_Weight: 1
+  - m_Path: Weapons/clusterShotgun/12gauge.001
+    m_Weight: 1
+  - m_Path: Weapons/clustersub
+    m_Weight: 1
+  - m_Path: Weapons/clustersub/45acp.001
+    m_Weight: 1
+  - m_Path: Weapons/clustersub/holder_clustersub
+    m_Weight: 1
+  - m_Path: Weapons/crossbar
+    m_Weight: 1
+  - m_Path: Weapons/Fireaxe
+    m_Weight: 1
+  - m_Path: Weapons/flamethrower
+    m_Weight: 1
+  - m_Path: Weapons/Grenade
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_a
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_a/head.005
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_b
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_b/head.004
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_c
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_c/head.003
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_d
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_d/head.002
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_e
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_e/head
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_f
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Bullet_f/head.001
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/cam
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/Dot
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/glass_a
+    m_Weight: 1
+  - m_Path: Weapons/grenade_launcher/glass_b
+    m_Weight: 1
+  - m_Path: Weapons/hunter_rifle
+    m_Weight: 1
+  - m_Path: "Weapons/hunter_rifle/12,7 \xD7 99"
+    m_Weight: 1
+  - m_Path: Weapons/hunter_rifle/cam.002
+    m_Weight: 1
+  - m_Path: Weapons/hunter_rifle/Dot.001
+    m_Weight: 1
+  - m_Path: Weapons/hunter_rifle/glass.002
+    m_Weight: 1
+  - m_Path: Weapons/lock
+    m_Weight: 1
+  - m_Path: Weapons/lock/9mm
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.003
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.004
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.005
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.006
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.007
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.008
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.009
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.010
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.011
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.012
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.013
+    m_Weight: 1
+  - m_Path: Weapons/machine_gun/5,56x45.014
+    m_Weight: 1
+  - m_Path: Weapons/mkb16
+    m_Weight: 1
+  - m_Path: "Weapons/mkb16/5,56 \xD7 45"
+    m_Weight: 1
+  - m_Path: Weapons/mkb16/sight_mkb16
+    m_Weight: 1
+  - m_Path: Weapons/nsp
+    m_Weight: 1
+  - m_Path: Weapons/nsp/45 acp
+    m_Weight: 1
+  - m_Path: Weapons/old_pistol
+    m_Weight: 1
+  - m_Path: Weapons/old_pistol/45acp
+    m_Weight: 1
+  - m_Path: Weapons/old_pistol/holder_old_pistol
+    m_Weight: 1
+  - m_Path: Weapons/pistol9
+    m_Weight: 1
+  - m_Path: Weapons/pistol9/9mm.001
+    m_Weight: 1
+  - m_Path: Weapons/pistol9/cover
+    m_Weight: 1
+  - m_Path: Weapons/pumpgun_a
+    m_Weight: 1
+  - m_Path: Weapons/pumpgun_a/12gauge.002
+    m_Weight: 1
+  - m_Path: Weapons/revolver
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_A
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_A/bullet_A.001
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_B
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_B/bullet_B.001
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_C
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_C/bullet_C.001
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_D
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_D/bullet_D.001
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_E
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_E/bullet_E.001
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_F
+    m_Weight: 1
+  - m_Path: Weapons/revolver/bullets/bullet_F/bullet_F.001
+    m_Weight: 1
+  - m_Path: Weapons/revolver/Insert_bullets
+    m_Weight: 1
+  - m_Path: Weapons/revolver/Insert_bullets_holder
+    m_Weight: 1
+  - m_Path: Weapons/rocket_launcher
+    m_Weight: 1
+  - m_Path: Weapons/rocket_launcher/rocket
+    m_Weight: 1
+  - m_Path: Weapons/rp9
+    m_Weight: 1
+  - m_Path: Weapons/rp9/5.7x28
+    m_Weight: 1
+  - m_Path: Weapons/russian_sniper
+    m_Weight: 1
+  - m_Path: Weapons/russian_sniper/7,62x54.001
+    m_Weight: 1
+  - m_Path: Weapons/russian_sniper/scope.001
+    m_Weight: 1
+  - m_Path: Weapons/russian_sniper/scope.001/cam.004
+    m_Weight: 1
+  - m_Path: Weapons/russian_sniper/scope.001/dot.002
+    m_Weight: 1
+  - m_Path: Weapons/russian_sniper/scope.001/glass.004
+    m_Weight: 1
+  - m_Path: Weapons/sce5
+    m_Weight: 1
+  - m_Path: Weapons/sce5/7,62x39
+    m_Weight: 1
+  - m_Path: Weapons/scorp6
+    m_Weight: 1
+  - m_Path: Weapons/scorp6/9mm.003
+    m_Weight: 1
+  - m_Path: Weapons/shotgun3
+    m_Weight: 1
+  - m_Path: Weapons/shotgun3/12gauge
+    m_Weight: 1
+  - m_Path: Weapons/streetsub
+    m_Weight: 1
+  - m_Path: Weapons/streetsub/9mm.004
+    m_Weight: 1
+  - m_Path: Weapons/sturmgewehr46
+    m_Weight: 1
+  - m_Path: Weapons/sturmgewehr46/5,56x45.001
+    m_Weight: 1
+  - m_Path: Weapons/submachine5
+    m_Weight: 1
+  - m_Path: Weapons/submachine5/9mm.002
+    m_Weight: 1
+  - m_Path: Weapons/submachine5/lamp_b
+    m_Weight: 1
+  - m_Path: Weapons/submachine5/laser_b
+    m_Weight: 1
+  - m_Path: Weapons/submachine5/none_laser_cap
+    m_Weight: 1
+  - m_Path: Weapons/tarusk
+    m_Weight: 1
+  - m_Path: Weapons/tarusk/5,56x45.002
+    m_Weight: 1
